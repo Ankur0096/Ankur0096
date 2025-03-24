@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur0096&label=Profile%20views&color=ff0000&style=flat-square" alt="ankur0096" /> </p>
-<img align="right" alt="coding" width="400" src="pixel-jeff-matrix-s.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur0096" alt="ankur0096" /></a> </p>
+<img align="right" alt="coding" width="400" src="pixel-jeff-matrix-s.gif">
 
 - 🔭 I’m currently working on **TODO**
 
